@@ -1,0 +1,15 @@
+---
+title: "Learning Sparse Adversarial Dictionaries For Multi-Class Audio Classification
+"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper concentrates on modifying the traditional reconstructive dictionary learning algorithms, by incorporating a discriminative term into the objective function in order to learn class-specific adversarial dictionaries that are good at representing samples of their own class at the same time poor at representing samples belonging to any other class.'
+date: 2017-11-28
+venue: 'ACPR 2017, Nanjing, China'
+paperurl: 'https://arxiv.org/abs/1712.00640'
+[comment]: <> (citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).')
+---
+This paper concentrates on modifying the traditional reconstructive dictionary learning algorithms, by incorporating a discriminative term into the objective function in order to learn class-specific adversarial dictionaries that are good at representing samples of their own class at the same time poor at representing samples belonging to any other class.
+
+[Download paper here](https://arxiv.org/pdf/1712.00640.pdf)
+
