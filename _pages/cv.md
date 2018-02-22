@@ -11,49 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.Tech in Machine Learning and Computing, Department Of Mathematics, Indian Institute of Space Science and Technology, 2016
+* B.Tech in Electrical and Electronics, TKM College of Engineering, University of Kerala, 2013
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2017-Present: Data Scientist
+  * McAfee
+  * Duties included: Developing ML models for Network Security and Research on Adversarial Machine Learning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* July 2016-July 2017: Researcher
+  * Intel Security
+  * Duties included: Developing deep learning based cybersecurity products for Advanced Threat Defense Team
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Detailed Resume
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [Resume](../files/resume_Vaisakh_S.pdf)
