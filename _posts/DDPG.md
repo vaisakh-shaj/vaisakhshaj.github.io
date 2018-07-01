@@ -2,6 +2,7 @@
 title: 'Deep Deterministic Policy Gradients'
 date: 2018-06-30
 mathjax: true
+image: Images/ddpg.png
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - DeepReinforcementLearning
@@ -27,9 +28,11 @@ One may use SGD to solve this but it turns out to be quite slow. The other solut
 This is achieved by using an actor neural network $\mu_\theta$, and updating its parameter as:
 
 $$
-\theta :=  \theta\quad + \quad \alpha\times\nabla_\theta Q(s,\mu_\theta(s)) \\
-= \theta \quad + \quad \alpha\times\nabla_{\mu_\theta} Q(s,\mu_\theta(s)) \times \nabla_{\theta}\mu_\theta(s)  \\
- = \theta \quad+\quad\alpha\times\nabla_{a} Q(s,\mu_\theta(s))\times\nabla_{\theta}\mu_\theta(s)
+\begin{align*}
+\theta :=\quad&  \theta\quad + \quad \alpha\times\nabla_\theta Q(s,\mu_\theta(s)) \\
+=\quad & \theta \quad + \quad \alpha\times\nabla_{\mu_\theta} Q(s,\mu_\theta(s)) \times \nabla_{\theta}\mu_\theta(s)  \\
+ =\quad & \theta \quad+\quad\alpha\times\nabla_{a} Q(s,\mu_\theta(s))\times\nabla_{\theta}\mu_\theta(s)
+ \end{align*}
 $$
 
 The equation above has a form of Policy Gradient theorem and its convergence is proven. This is the policy gradient explanation for 2 and hence the name DD-Policy Gradient.
