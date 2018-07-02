@@ -19,11 +19,15 @@ Work experience
 ======
 * Aug 2017-Present: Data Scientist
   * McAfee
-  * Duties included: Developing ML models for Network Security and Research on Adversarial Machine Learning
+  * Duties included: Adversarial Machine Learning and Defenses. Network Anomaly Detection.
 
 * July 2016-July 2017: Researcher
-  * Intel Security
-  * Duties included: Developing deep learning based cybersecurity products for Advanced Threat Defense Team
+  * Intel
+  * Duties included: Developing deep learning based cybersecurity products for Advanced Threat Defense Team.
+
+* July 2016-July 2017: Graduate Technical Intern
+    * Intel
+    * Duties included: Audio Understanding using Machine Learning.
 
 
 Detailed Resume
