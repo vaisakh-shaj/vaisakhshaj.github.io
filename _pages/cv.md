@@ -25,7 +25,7 @@ Work experience
   * Intel Security
   * Duties included: Developing deep learning based cybersecurity products for Advanced Threat Defense Team
 
-  
+
 Detailed Resume
 ======
-* [Resume](../files/resume_Vaisakh_S.pdf)
+* [Resume](../files/vaisakh_WR.pdf)

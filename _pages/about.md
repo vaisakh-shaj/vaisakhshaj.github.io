@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website. I am a researcher currently interested in the development of novel machine learning algorithms and their applications in various domains. At present I am working as a Data Scientist at the cybersecurity firm McAfee. Previously I worked with Intel for 2 years. I hold a post graduate degree in Machine Learning from the Indian Institute of Space Science and Technology.
+Welcome to my personal website. I am a researcher currently interested in the development of novel machine learning algorithms and their applications in various domains. At present I am working as a Data Scientist at the cybersecurity firm McAfee. Previously I worked with Intel for 2 years. I hold a post graduate degree in [Machine Learning and Computing](https://www.iist.ac.in/departments/mathematics-academics) from the [Indian Institute of Space Science and Technology](https://www.iist.ac.in/).
 
 Activity
 ========
@@ -17,5 +17,11 @@ June, 2018 - **Blog on [Deep Deterministic Policy Gradients](https://vaisakh-sha
 
 April, 2018 - **Gave a talk on Machine Learning in Security Industry at [Data Science Summit 2018](https://www.productleadership.com/data-science-summit-2018-agenda/), Bangalore**
 
-Nov, 2017 - **Gave an oral presentation at the Asian Conference on Pattern Recognition 2017**
+Nov, 2017 - **Gave an oral paper presentation on [Adversarial Dictionary Learning](https://arxiv.org/pdf/1712.00640.pdf) at the Asian Conference on Pattern Recognition 2017**
 Please find the [Slides](../files/ACPR-307.pptx) here
+
+Sep, 2016 - **Our paper [Edge PSO](https://ieeexplore.ieee.org/document/7732022), won best paper award at ICACCI 2016**
+
+June, 2016 - **Successfully defended M.Tech Thesis on [Learning Structured Dictionaries For Sparse
+Representation Based Monaural Source
+Separation And Pattern Classification](https://drive.google.com/file/d/1eSeNvyWnJfVp7RBM6m3gK1e7vfjjtBYX/view)**
