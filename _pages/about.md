@@ -22,6 +22,6 @@ Please find the [Slides](../files/ACPR-307.pptx) here
 
 Sep, 2016 - **Our paper [Edge PSO](https://ieeexplore.ieee.org/document/7732022), won best paper award at ICACCI 2016**
 
-June, 2016 - **Successfully defended M.Tech Thesis on [Learning Structured Dictionaries For Sparse
+June, 2016 - **Successfully defended M.Tech Thesis - ["Learning Structured Dictionaries For Sparse
 Representation Based Monaural Source
-Separation And Pattern Classification](https://drive.google.com/file/d/1eSeNvyWnJfVp7RBM6m3gK1e7vfjjtBYX/view)**
+Separation And Pattern Classification"](https://drive.google.com/file/d/1eSeNvyWnJfVp7RBM6m3gK1e7vfjjtBYX/view)**
