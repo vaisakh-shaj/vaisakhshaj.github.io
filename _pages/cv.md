@@ -28,4 +28,4 @@ Work experience
 
 Detailed Resume
 ======
-* [Resume](../files/vaisakh_WR.pdf)
+* **[Resume](../files/vaisakh_WR.pdf)**
