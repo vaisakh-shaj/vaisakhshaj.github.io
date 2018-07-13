@@ -13,6 +13,8 @@ Welcome to my personal website. I am a researcher currently interested in the de
 Activity
 ========
 
+July, 2018 - **Blog on [Kernel Methods in Machine Learning](https://vaisakh-shaj.github.io/posts/2018/06/DDPG/)**
+
 June, 2018 - **Blog on [Deep Deterministic Policy Gradients](https://vaisakh-shaj.github.io/posts/2018/06/DDPG/)**
 
 April, 2018 - **Gave a talk on Machine Learning in Security Industry at [Data Science Summit 2018](https://www.productleadership.com/data-science-summit-2018-agenda/), Bangalore**
