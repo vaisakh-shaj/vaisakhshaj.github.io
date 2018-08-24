@@ -13,6 +13,8 @@ Welcome to my personal website. I am a researcher currently interested in the de
 Activity
 ========
 
+July, 2018 - **Blog on [Meta Learning and MAML(Model Aganostic Meta Learning)](https://vaisakh-shaj.github.io/posts/2018/07/KernelMethods/)**
+
 July, 2018 - **Blog on [Kernel Methods in Machine Learning](https://vaisakh-shaj.github.io/posts/2018/07/KernelMethods/)**
 
 June, 2018 - **Blog on [Deep Deterministic Policy Gradients](https://vaisakh-shaj.github.io/posts/2018/06/DDPG/)**
