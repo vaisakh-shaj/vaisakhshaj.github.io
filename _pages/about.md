@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website. I am a researcher currently interested in the development of novel machine learning algorithms and their applications in various domains. I currently pursuing my PhD in Robot Learning under [Prof Gerhard Neumann](https://www.ias.informatik.tu-darmstadt.de/Team/GerhardNeumann) at the [CLAS Lab](https://www.computational-learning.net), University Of Lincoln, UK. Before that I was a Data Scientist at the cybersecurity firm McAfee(Intel Security). Previously I worked with Intel for 2 years. I hold a post graduate degree in [Machine Learning and Computing](https://www.iist.ac.in/departments/mathematics-academics) from the [Indian Institute of Space Science and Technology](https://www.iist.ac.in/).
+Welcome to my personal website. I am a researcher currently interested in the development of novel machine learning algorithms and their applications in various domains. I currently pursuing my PhD in Robot Learning under [Prof Gerhard Neumann](https://www.ias.informatik.tu-darmstadt.de/Team/GerhardNeumann) at the [CLAS Lab](www.computational-learning.net), University Of Lincoln, UK. Before that I was a Data Scientist at the cybersecurity firm McAfee(Intel Security). Previously I worked with Intel for 2 years. I hold a post graduate degree in [Machine Learning and Computing](https://www.iist.ac.in/departments/mathematics-academics) from the [Indian Institute of Space Science and Technology](https://www.iist.ac.in/).
 
 Activity
 ========
 
-January, 2019 - **Started PhD under [Prof Gerhard Neumann](https://www.ias.informatik.tu-darmstadt.de/Team/GerhardNeumann) at the [CLAS Lab](https://www.computational-learning.net), University Of Lincoln, UK.**
+January, 2019 - **Started PhD under [Prof Gerhard Neumann](https://www.ias.informatik.tu-darmstadt.de/Team/GerhardNeumann) at the [CLAS Lab](www.computational-learning.net), University Of Lincoln, UK.**
 
-Septemper, 2018 - **Joined [VAL Lab](http://val.serc.iisc.ernet.in/valweb/people.html) at [IISc Bangalore](iisc.ac.in) as a Research Assitant working with Prof Venkatesh Babu.**
+Septemper, 2018 - **Joined [VAL Lab](http://val.serc.iisc.ernet.in/valweb/people.html) at [IISc Bangalore](https://iisc.ac.in/) as a Research Assitant working with Prof Venkatesh Babu.**
 
 August, 2018 - **Blog on [Meta Learning and MAML(Model Aganostic Meta Learning)](https://vaisakh-shaj.github.io/posts/2018/08/MAML/)**
 
