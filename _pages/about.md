@@ -13,6 +13,8 @@ Welcome to my personal website. I am a researcher currently interested in the de
 Activity
 ========
 
+April, 2019 - **Our Paper "Zero Shot Knowledge Distillation in Deep Networks" with Gaurav and Konda Reddy got accepted in [ICML 2019](https://icml.cc/).**
+
 January, 2019 - **Started PhD under [Prof Gerhard Neumann](https://www.ias.informatik.tu-darmstadt.de/Team/GerhardNeumann) at the [CLAS Lab](www.computational-learning.net), University Of Lincoln, UK.**
 
 Septemper, 2018 - **Joined [VAL Lab](http://val.serc.iisc.ernet.in/valweb/people.html) at [IISc Bangalore](https://iisc.ac.in/) as a Research Assitant working with Prof Venkatesh Babu.**
