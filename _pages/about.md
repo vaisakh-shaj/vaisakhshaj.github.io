@@ -12,7 +12,7 @@ Welcome to my personal website. I am a researcher currently interested in the de
 
 Activity
 ========
-April, 2020 - **Our Paper on 'Adversarial Fooling - Beyond Flipping the Label' got accepted as long paper in [CVPR 2020 Adversarial ML Workshop](https://adv-workshop-2020.github.io/)**
+April, 2020 - **Our Paper on "Adversarial Fooling - Beyond Flipping the Label" got accepted as long paper in [CVPR 2020 Adversarial ML Workshop](https://adv-workshop-2020.github.io/).**
 
 May, 2019 - **Received Travel Grant worth 1300USD From Organizers of [ICML 2019](https://icml.cc/).**
 
