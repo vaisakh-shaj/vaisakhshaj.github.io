@@ -12,7 +12,7 @@ Welcome to my personal website. I am a researcher currently interested in the de
 
 Activity
 ========
-October, 2020 - **PhD work "Action Conditional Recurrent Kalman Networks For Forward and Inverse Dynamics Learning" accepted in [Conference on Robot Learning(CoRL) 2020](https://www.robot-learning.org/)**. 
+October, 2020 - **PhD work "Action Conditional Recurrent Kalman Networks For Forward and Inverse Dynamics Learning" accepted in [Conference on Robot Learning(CoRL) 2020](https://www.robot-learning.org)**. 
 
 April, 2020 - **Our Paper on "Adversarial Fooling - Beyond Flipping the Label" got accepted as long paper in [CVPR 2020 Adversarial ML Workshop](https://adv-workshop-2020.github.io/).**
 
